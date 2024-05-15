@@ -6,9 +6,14 @@ Le projet de ce module vise à améliorer l'évaluation des essais étudiants en
 Pour ce faire, les étapes clés incluent la compréhension des données, l'exploration des données, l'entraînement des modèles, l'évaluation des performances, l'interprétation des résultats, et enfin, la sélection du meilleur modèle. Une documentation détaillée est attendue pour expliquer chaque étape du processus.
 
 - Notre source de données est située dans le dossier "data" sous le nom de "train.csv". Notre ensemble de données comprend uniquement trois colonnes : une colonne pour l'identifiant de l'essai, une colonne "full_text" représentant l'essai de l'étudiant, et enfin une colonne représentant le "score" ou la note attribuée à cet essai, qui est notre variable cible.
+
 - Le code principal se trouve dans le dossier "src" sous le nom "main.ipynb".
+
 - Des annexes ont été incluses dans le dossier source pour justifier quelques paramètres utilisés lors de l'entraînement dans le code principal.
+
 - Des graphiques ont été mis à disposition lors de l'analyse dans un dossier "visuals".
+
+- une documentation détaillé sur le code principal est sur le dossier "doc".
 
 
 Ce code a été réalisé par Nazim KESKES en Mai 15, 2024.
